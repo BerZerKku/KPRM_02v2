@@ -8,7 +8,7 @@
     (BuildFileAddedOrDeleted "x")
     (CompileFileAddedOrDeleted "x")
     (DOCKED "TRUE")
-    (DOCKING_POSITION "59420")
+    (DOCKING_POSITION "59422")
     (NoModify)
     ("Create Allegro Netlist" "TRUE")
     ("Allegro Netlist Directory" "pcb")
@@ -62,7 +62,7 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 880"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 829 0 180"))
       (Tab 0)))
   (MPSSessionName "Shcheblykin")
   (ISPCBBASICLICENSE "false"))
